@@ -15,8 +15,8 @@ ext {
     runnerVersion = '1.0.1'
     rulesVersion = '1.0.1'
     espressoVersion = '3.0.2'
-    roomVersion = "1.0.0"
-    coroutineVersion = "0.22.5"
+    roomVersion = "1.1.1"
+    coroutineVersion = "0.26.1"
 }
 
 buildscript {
